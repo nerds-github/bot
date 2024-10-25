@@ -9,3 +9,4 @@ atomicwrites==1.4.0
 spintax==1.0.4
 requests~=2.31.0
 packaging~=20.9
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
